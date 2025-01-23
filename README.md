@@ -1,4 +1,4 @@
-https://www.linkedin.com/in/oliver-leo-b5335a319# 💫 About Me:
+💫 About Me:
 💥 FiveM Development [GTA5]: Proficient in creating FiveM resources and modifications using Lua. 🕹️<br>⚙️ Python Programming: Experienced in Python development for various applications. 🛠️<br>🚀 C++ Development: Knowledgeable in C++ for performance-critical tasks. 🌠<br>🌐 Web Development (Basics): Familiar with HTML and CSS for front-end web development. ✨<br>🧊 3D Modeling & Blender: Creating 3D models in Blender. 📐<br>🛠️ Scripting & Automation: Automating tasks and creating helpful scripts.<br>📚 Learning & Exploring: Continuously learning new technologies and expanding my skillset.<br>🤝 Collaboration & Open Source: Open to collaborating on projects and contributing to open source.<br>🎮 Game Development Enthusiast: Passionate about game development and creating engaging experiences.
 
 
